@@ -9,7 +9,7 @@
 On Fedora you need to install _glibc-static_
 
 ```shell
-$ sudo dnf install -y glibc-static
+$ sudo dnf install -y glibc-static go git make docker findutils python
 ```
 
 ### Building from Source
